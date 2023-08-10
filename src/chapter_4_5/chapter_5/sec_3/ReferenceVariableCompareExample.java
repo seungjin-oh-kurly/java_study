@@ -12,5 +12,7 @@ public class ReferenceVariableCompareExample {
 
         System.out.println(arr1==arr2);
         System.out.println(arr3==arr2);
+
+    
     }
 }
